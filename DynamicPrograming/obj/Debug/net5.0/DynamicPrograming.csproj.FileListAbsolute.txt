@@ -1,0 +1,16 @@
+C:\Users\MarioNtuli\source\repos\DynamicPrograming\DynamicPrograming\bin\Debug\net5.0\DynamicPrograming.exe
+C:\Users\MarioNtuli\source\repos\DynamicPrograming\DynamicPrograming\bin\Debug\net5.0\DynamicPrograming.deps.json
+C:\Users\MarioNtuli\source\repos\DynamicPrograming\DynamicPrograming\bin\Debug\net5.0\DynamicPrograming.runtimeconfig.json
+C:\Users\MarioNtuli\source\repos\DynamicPrograming\DynamicPrograming\bin\Debug\net5.0\DynamicPrograming.runtimeconfig.dev.json
+C:\Users\MarioNtuli\source\repos\DynamicPrograming\DynamicPrograming\bin\Debug\net5.0\DynamicPrograming.dll
+C:\Users\MarioNtuli\source\repos\DynamicPrograming\DynamicPrograming\bin\Debug\net5.0\ref\DynamicPrograming.dll
+C:\Users\MarioNtuli\source\repos\DynamicPrograming\DynamicPrograming\bin\Debug\net5.0\DynamicPrograming.pdb
+C:\Users\MarioNtuli\source\repos\DynamicPrograming\DynamicPrograming\obj\Debug\net5.0\DynamicPrograming.csproj.AssemblyReference.cache
+C:\Users\MarioNtuli\source\repos\DynamicPrograming\DynamicPrograming\obj\Debug\net5.0\DynamicPrograming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarioNtuli\source\repos\DynamicPrograming\DynamicPrograming\obj\Debug\net5.0\DynamicPrograming.AssemblyInfoInputs.cache
+C:\Users\MarioNtuli\source\repos\DynamicPrograming\DynamicPrograming\obj\Debug\net5.0\DynamicPrograming.AssemblyInfo.cs
+C:\Users\MarioNtuli\source\repos\DynamicPrograming\DynamicPrograming\obj\Debug\net5.0\DynamicPrograming.csproj.CoreCompileInputs.cache
+C:\Users\MarioNtuli\source\repos\DynamicPrograming\DynamicPrograming\obj\Debug\net5.0\DynamicPrograming.dll
+C:\Users\MarioNtuli\source\repos\DynamicPrograming\DynamicPrograming\obj\Debug\net5.0\ref\DynamicPrograming.dll
+C:\Users\MarioNtuli\source\repos\DynamicPrograming\DynamicPrograming\obj\Debug\net5.0\DynamicPrograming.pdb
+C:\Users\MarioNtuli\source\repos\DynamicPrograming\DynamicPrograming\obj\Debug\net5.0\DynamicPrograming.genruntimeconfig.cache
